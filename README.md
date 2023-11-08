@@ -9,8 +9,11 @@ All the entities for the grocery are mapped using the JPA.
 Instructions run this api:
 
 Build : mvn clean install
+
 Run: Run the application
+
 Health check using Spring actuator url : http://localhost:8084/actuator/health
+
 Swagger-ui url : http://localhost:8084/swagger-ui/index.html
 
 Using the swagger uri mentioned above we can test the service created
